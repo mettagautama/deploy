@@ -8,11 +8,11 @@ Original file is located at
 """
 
 #Install library:
-pip install pandas
-pip install numpy
-pip install seaborn
-pip install scikit-learn
-pip install matplotlib
+!pip install pandas
+!pip install numpy
+!pip install seaborn
+!pip install scikit-learn
+!pip install matplotlib
 
 # Import library:
 import pandas as pd
