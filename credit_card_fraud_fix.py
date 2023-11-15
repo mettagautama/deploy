@@ -7,7 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/15NsR91bqwLEDcvY8thBEhIzO75TvnXZw
 """
 
-
+#Install library:
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install scikit-learn
+pip install matplotlib
 
 # Import library:
 import pandas as pd
